@@ -22,7 +22,7 @@ body > section.header.bg-lightgray.header-small > nav > div{
 body > section.header.bg-lightgray.header-small > nav > div > div.navbar-header > a{
 	color: #ffc107;
 	font-weight: bold;
-	font-size: 24px;//25
+	font-size: 23px;//25
 }
 
 body > section.header.bg-lightgray.header-small > nav > div > div.navbar-header > a:hover{
